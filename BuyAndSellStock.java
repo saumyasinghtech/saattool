@@ -1,5 +1,5 @@
 public class BuyAndSellStock {
-
+//this is comment
     public static  int buySell(int[] arr){
         int n = arr.length;
          int buy = arr[0];
